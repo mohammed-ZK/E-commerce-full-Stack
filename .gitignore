@@ -1,2 +1,12 @@
 "node_modules/" 
 "target/" 
+# ملفات بيئة العمل
+.idea/
+.vscode/
+target/
+*.iml
+
+# إعدادات قاعدة البيانات
+application.properties
+application.yml
+.env
